@@ -9,7 +9,7 @@ This app is made for fun, test and enjoy.
 
 | Home page | Video    | 
 |-----------|----------------| 
-| ![](https://github.com/kelevra9900/brand_skin_selector/blob/main/screenshots/1.png) | <video src="https://github.com/kelevra9900/brand_skin_selector/blob/main/screenshots/2.mp4" width=180 />|
+| ![](https://github.com/kelevra9900/brand_skin_selector/blob/main/screenshots/1.png) | ![](https://github.com/kelevra9900/brand_skin_selector/blob/main/screenshots/2.gif)|
 
 
 ## Contributing
